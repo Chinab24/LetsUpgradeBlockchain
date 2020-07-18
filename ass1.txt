@@ -23,4 +23,4 @@ Assignment Day1
 4)Mining key
 
 5.How is verifiability of blockchain is been attained ?
--The HashKey aka the fingerprint helps us attain the verifibility in blockchain as it changes as soon as any change is made in the data.
+-The HashKey aka the fingerprint helps us attain the verifiability in blockchain as it changes as soon as any change is made in the data.
