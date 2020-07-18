@@ -1,0 +1,26 @@
+Assignment Day1
+
+1. What is your understanding of blockchain?
+-The concept of blockchain is the combination of distributed database and crptography. In blockchain, it allows us fast, secure, and transparent peer to peer transactions.
+
+2. What is the core problem blockchain trying to solve?
+- The three main problems that blockchain resolves are 
+1)Verifiabilty
+2)Security
+3)Authenticity
+4)No single party dependency
+
+3. What are the few features that blockchain will give you ?
+-1)Verifiable
+2)Unchangeable
+3)Immutable
+4)Tamper proof
+
+4. What all things does blockchain contains ?
+-1)Block number
+2)Transaction records
+3)Previous block signature
+4)Mining key
+
+5.How is verifiability of blockchain is been attained ?
+-The HashKey aka the fingerprint helps us attain the verifibility in blockchain as it changes as soon as any change is made in the data.
